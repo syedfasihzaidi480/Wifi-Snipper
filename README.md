@@ -1,4 +1,3 @@
-# Wifi-Snipper
 # 📡 WiFi Network Scanner & Sniffer
 
 A comprehensive Python-based network monitoring tool for discovering WiFi devices, CCTV cameras, and analyzing network traffic.
